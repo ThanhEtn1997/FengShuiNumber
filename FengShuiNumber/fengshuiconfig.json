@@ -1,0 +1,32 @@
+{
+  "StringLength": 10,
+  "ValidLast2Numbers": [ "19", "24", "26", "37", "34" ],
+  "InValidLast2Numbers": [ "00", "66", "04", "45", "85", "27", "67", "17", "57", "97", "98", "58", "42", "82", "69" ],
+  "SumConditions": [
+    {
+      "First5DigitsSum": 24,
+      "Last5DigitsSum": 29
+    },
+    {
+      "First5DigitsSum": 24,
+      "Last5DigitsSum": 28
+    }
+  ],
+  "NetWorks": [
+    {
+      "Code": "VIETTEL",
+      "Name": "Viettel",
+      "Prefixies": [ "086", "096", "097" ]
+    },
+    {
+      "Code": "MOBI",
+      "Name": "MobiPhone",
+      "Prefixies": [ "089", "090", "093" ]
+    },
+    {
+      "Code": "VINA",
+      "Name": "VinaPhone",
+      "Prefixies": [ "088", "091", "094" ]
+    }
+  ]
+}
